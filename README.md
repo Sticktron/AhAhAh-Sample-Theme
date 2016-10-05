@@ -32,7 +32,7 @@ My Awesome Theme/
 
 The dictionary *should* have an **Author** key.
 
-The dictionary *must* have *either* a **Video **or **Image** key.
+The dictionary *must* have *either* a **Video** or **Image** key.
 
 The optional **ContentMode** key can be used to set your preferred resizing mode. If left out, the default setting (AspectFit) is applied.
 
