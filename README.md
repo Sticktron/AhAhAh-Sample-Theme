@@ -37,9 +37,9 @@ The dictionary *must* have *either* a **Video** or **Image** key.
 The optional **ContentMode** key can be used to set your preferred resizing mode. If left out, the default setting (AspectFit) is applied.
 
 Available content modes:
-- "AspectFit" > scale to fit screen, preserving aspect ratio
-- "AspectFill" > scale to fill screen, preserving aspect ratio
-- "Fill" > scale to fill screen, ingoring aspect ratio
+- AspectFit: scale to fit screen, preserving aspect ratio
+- AspectFill: scale to fill screen, preserving aspect ratio
+- Fill: scale to fill screen, ingoring aspect ratio
 
 
 #### Example plists
