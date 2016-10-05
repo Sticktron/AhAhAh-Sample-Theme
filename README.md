@@ -3,7 +3,7 @@
 This is a sample theme for the Ah!Ah!Ah! tweak. It also comes with an example project ready to be built into a deb file for distribution on Cydia.
 
 
-###  Theme
+###  Creating a Theme
 
 A theme is a folder containing three elements: an Info.plist file, a video or image, and a thumbnail.
 
