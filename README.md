@@ -5,7 +5,7 @@ This is an example of a user-created Theme for the Ah!Ah!Ah! tweak, and how to p
 ###  Theme Location
 
 ```
-/User/Library/AhAhAh/Themes/
+/Library/AhAhAh/Themes/
 ```
 
 
