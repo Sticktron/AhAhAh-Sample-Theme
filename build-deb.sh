@@ -1,13 +1,13 @@
 #!/bin/bash
 
-folder="Sample Package"
+folder="Sample Theme"
 package="com.sticktron.ahahah-sample-theme"
 
 echo ""
 echo "1) Cleaning up..."
 
 # get rid of these pesky buggers
-find . -name '.DS_Store' -delete
+find $folder -name '.DS_Store' -delete
 
 
 echo ""
