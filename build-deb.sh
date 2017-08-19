@@ -7,7 +7,7 @@ echo ""
 echo "1) Cleaning up..."
 
 # get rid of these pesky buggers
-find $folder -name '.DS_Store' -delete
+find "$folder/" -name ".DS_Store" -delete
 
 
 echo ""

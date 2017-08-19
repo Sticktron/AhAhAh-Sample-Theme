@@ -1,9 +1,9 @@
 Package: com.sticktron.ahahah-sample-theme
 Name: Ah!Ah!Ah! Sample Theme
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Depends: com.sticktron.ahahah
-Description: This is an example of a user-created theme package for for Ah!Ah!Ah!
+Description: This is an example of a user-created theme package for for Ah!Ah!Ah! 2.
 Author: Sticktron <sticktron@hotmail.com>
 Maintainer: Sticktron
 Section: Themes (Ah!Ah!Ah!)
